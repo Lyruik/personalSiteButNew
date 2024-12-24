@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Grace-Shopper",
+    "category": "e-commerce",
+    "link": {
+      "text": "GITHUB",
+      "url": "https://github.com/Lyruik/graceShopper"
+    },
+    "date": "July 2023",
+    "desc": "Four week sprint full stack application for users to browse and purchase baked goods and merchandise.",
+    "bullPoints": [
+      "Developed front-end components to create an intuitive user experience using JavaScript and React.",
+      "Implemented a relational backend with routes to maintain current inventory using Express, PostgresSQL, and Node.",
+      "Collaborated in a team of 4 full-stack developers during a 4 week sprint using agile workflow.",
+      "Tech Stack: PERN, Vite"
+    ]
+  },
+  {
+    "name": "Fitnesstrack.r",
+    "category": "fitness board",
+    "link": {
+      "text": "NETLIFY",
+      "url": "https://magical-entremet-3f6ce2.netlify.app"
+    },
+    "date": "June 2023",
+    "desc": "Two part project creating front-end and back-end for blog site to share exercise routines and activities.",
+    "bullPoints": [
+      "Tested backend using Jest using Jest to create various server API functions and SQL database functions.",
+      "Created a front-end to house the database information and adapters using React and built with Vite.",
+      "Tech Stack: PERN, Vite"
+    ]
+  },
+  {
+    "name": "Coffee Clicker",
+    "category": "clicking game",
+    "link": {
+      "text": "NETLIFY",
+      "url": "https://lustrous-vacherin-c1e3b9.netlify.app"
+    },
+    "date": "March 2023",
+    "desc": "Simple single page clicking game",
+    "bullPoints": [
+      "Using DOM manipulation to update coffee earned per second and click to represent game progress",
+      "Tech Stack: HTML, CSS, Javascript"
+    ]
+  }
+]

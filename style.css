@@ -1,0 +1,40 @@
+/* global element stuff */
+body {
+  display: flex;
+  align-items: center;
+  height: 95%;
+}
+span {
+  font-size: 24px;
+}
+button {
+  border: none;
+  background: none;
+  padding: 24px;
+}
+
+/* id specific stuff */
+#info-column {
+  width: 30%;
+  text-align: left;
+  height: 100%;
+}
+#project-box {
+  height: 100%;
+  width: 70%;
+}
+#project-tabs {
+  height: 10%;
+  display: flex;
+  justify-content: center;
+}
+#content-box {
+  display: flex;
+  flex-direction: column;
+  height: 90%;
+}
+
+/* event/interaction stuff */
+button:hover {
+  cursor: pointer;
+}
